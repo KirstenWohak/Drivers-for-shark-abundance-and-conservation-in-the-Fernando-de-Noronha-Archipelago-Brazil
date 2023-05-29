@@ -1,4 +1,4 @@
-# NoronhaSharks
+# Sharks around Fernando de Noronha
 Code supporting the analysis of the drivers for shark abundance and biomass along with the shark conservation in the Fernando de Noronha Archipelago, Brazil. 
 
 Code related to:
